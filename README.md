@@ -69,9 +69,9 @@ Upon signing up, users are given a unique id which allows the app to track who i
 
 ### Contributors
 
-* Cody Thompson ([https://github.com/cdt12988](https://github.com/cdt12988 “Cody’s Github”)
-* Peter Jarrard ([https://github.com/PeterJ330](https://github.com/PeterJ330 “Peter’s Github”)
-* Sadegh Sachedina ([https://github.com/sadeghsachedina](https://github.com/sadeghsachedina “Sadegh’s Github”)
+* Cody Thompson ([https://github.com/cdt12988](https://github.com/cdt12988 "Cody’s Github")
+* Peter Jarrard ([https://github.com/PeterJ330](https://github.com/PeterJ330 "Peter’s Github")
+* Sadegh Sachedina ([https://github.com/sadeghsachedina](https://github.com/sadeghsachedina "Sadegh’s Github")
 
 ### Desired Features
 
