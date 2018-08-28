@@ -4,7 +4,7 @@ Link to App: [https://cdt12988.github.io/fitness-app/](https://cdt12988.github.i
 
 Ready to start your fitness journey?  The My Journey app is a tool designed to help you along the way!  Just create an account, choose your goals, and start logging your daily activities.
 
-![Screenshot](https://cdt12988.github.io/images/portfolio/jourey2.jpg "My Journey Fitness App Screenshot")
+![Screenshot](https://cdt12988.github.io/images/portfolio/journey2.jpg "My Journey Fitness App Screenshot")
 
 ## App Features
 
@@ -58,7 +58,7 @@ Upon signing up, users are given a unique id which allows the app to track who i
 
 ## Development Notes
 
-### Languages, Frameworks, and Tools Used
+### Developer's Toolkit
 
 * HTML5
 * CSS3
