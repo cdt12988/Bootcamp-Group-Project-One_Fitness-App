@@ -1,6 +1,6 @@
 # My Journey - Fitness App
 
-Link to App: [https://cdt12988.github.io/fitness-app/](https://cdt12988.github.io/Coding-Bootcamp-Group-Project-One-Fitness-App/ "My Journey")
+Link to App: [https://cdt12988.github.io/fitness-app/](https://cdt12988.github.io/Bootcamp-Group-Project-One_Fitness-App/ "My Journey")
 
 Ready to start your fitness journey?  The My Journey app is a tool designed to help you along the way!  Just create an account, choose your goals, and start logging your daily activities.
 
